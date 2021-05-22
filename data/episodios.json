@@ -1,0 +1,14 @@
+[
+    {
+        "episodes": 
+        {
+            "id": 1,
+            "season": 1,
+            "episode": 1,
+            "name": "",
+            "description": "",
+            "duration": "",
+            "favorite": false
+        }
+    }
+]
